@@ -6,7 +6,7 @@ En este proyecto crearemos una aplicacion web la cual permita a los usuarios ten
 ## Programas y lenguajes a utilizar
 Los programas que tenemos previstos para usar son:
 <ol>
-  <li>JavaScript ![]</li>
+  <li>JavaScript </li>
   <li>HTML</li>
   <li>CSS</li>
   <li>MySQL</li>
