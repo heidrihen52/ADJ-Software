@@ -46,4 +46,40 @@ Los programas que tenemos previstos para usar son:
   
 </ol>
 
+## Requerimientos no funcionales
+<ol>
+<li>Hay una base de datos donde se almacenan (crear) los planes de alimentación</li>
+<li>Hay una base de datos donde se almacenan (crear) los planes de ejercicio</li>
+<li>Hay una base de datos dnode se almacenen (crear) los anuncios informativos</li>
+<li>Hay una función almacenada que permite habilitar anuncios informativos existentes en la base de datos</li>
+<li>Hay una función almacenada que permite programar los anuncios informativos existentes en la base de datos</li>
+<li>Hay una función almacenada que permite eliminar los anuncios informativos existentes en la base de datos</li>
+<li>Hay una función almacenada que permite modificar los anuncios informativos existentes en la base de datos</li>
+<li>No se permitira que el atributo username contenga caracteres especiales</li>
+<li>Se solicitara que el atributo password contenga al menos 10 caracteres</li>
+<li>Hay una base de datos donde hay un registro de todos los usuarios existentes en la plataforma </li>
+<li>Hay una función almacenada que permite agregar un nuevo usuario al registro de usuarios</li>
+<li>Hay una función almacenada que permite gestionar los atributos de los registros en la tabla de usuarios</li>
+<li>Hay una función almacenada que permite al usuario ingresar, si es que el usuario y contraseña proporcionado existe en la base de datos</li>
+<li>Hay una función almacenada que permite eliminar planes de alimentación existentes en la base de datos</li>
+<li>La aplicación estara prograamada de modo que, de acuerdo al atributo que indica el tipo de usuario, mostrara el menú de usuario normal</li>
+<li>La aplicación estara prograamada de modo que, de acuerdo al atributo que indica el tipo de usuario, mostrara el menú de administrador</li>
+<li>La aplicación estara prograamada de modo que, de acuerdo al atributo que indica el tipo de usuario, mostrara el menú de entrenador</li>
+<li>icono perfilhow</li>
+<li>Habra una función almacenada que le permitira al usuario cambiar su nickname (nombre visible para otros usuarios), siempre y cuando el contador de esta acción no sea mayor a 0</li>
+<li>El atributo de contador de veces que el usuario ha cambiado su nickname, se restablece a 0 cada 3 meses desde que se actualizo (desde que se realizo la acción)</li>
+<li>Cuando se agrega una cuenta nueva a la base de datos, se le asigna un ID único</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>  
+</ol>
+
 
