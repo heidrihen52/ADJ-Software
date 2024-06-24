@@ -3,14 +3,23 @@ Avances y documentación sobre el avance del proyecto integrador
 ## Proyecto integrador
 En este proyecto crearemos una aplicacion web la cual permita a los usuarios tener rutinad de ejercio personalizadas que se ajustaran en funcion de su complexión física, ademas de ello, al completar cierta cantidad de ejercios, el usuario recibira alguna especie de congratulaciones para que se motive a seguir con los ejercicios.
 
-## Programas y lenguajes a utilizar
+## Lista de Tecnologías
 Los programas que tenemos previstos para usar son:
 <ol>
-  <li>JavaScript </li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>MySQL</li>
+  <li>Cliente </li>
+  <li>Servidor</li>
+  <li>Pruebas</li>
+  <li>Documentación</li>
 </ol>
+
+## Objetivo General
+
+
+## Obejetivos especificos
+
+
+## Capturas de Pantalla
+
 
 ## Requerimientos Funcionales
 <ol>
@@ -81,5 +90,9 @@ Los programas que tenemos previstos para usar son:
 <li></li>
 <li></li>  
 </ol>
+
+## Autores
+
+## Licencia de Software
 
 
