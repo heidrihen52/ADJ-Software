@@ -105,20 +105,23 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
   <li>Los usuarios pueden seleccionar un logro que este en el inventario para ponerlo en su icono (en su imagen de perfil)</li>
   <li>Los usuarios pueden deseleccionar un logro que este en el inventario para ponerlo en su icono (en su imagen de perfil)</li>
   <li>Los administradores pueden dar roles</li>
-  
+  <li>Los perfiles de usuario tienen sección de logros obtenidos</li>
 </ol>
 
 ## Requerimientos no funcionales
 <ol>
 <li>Hay una base de datos donde se almacenan (crear) los planes de alimentación</li>
+<li>Hay una base de datos donde se modifican los planes de alimentación existentes</li>
+<li>Hay una base de datos donde se pueden eliminar los planes de alimentación existentes</li>
 <li>Hay una base de datos donde se almacenan (crear) los planes de ejercicio</li>
+<li>Hay una base de datos donde se modifican los planes de ejercicios existentes</li>
+<li>Hay una base de datos donde se pueden eliminar los planes de ejercicios existentes</li>
 <li>Hay una base de datos dnode se almacenen (crear) los anuncios informativos</li>
 <li>Hay una función almacenada que permite habilitar anuncios informativos existentes en la base de datos</li>
 <li>Hay una función almacenada que permite programar los anuncios informativos existentes en la base de datos</li>
 <li>Hay una función almacenada que permite eliminar los anuncios informativos existentes en la base de datos</li>
 <li>Hay una función almacenada que permite modificar los anuncios informativos existentes en la base de datos</li>
-<li>No se permitira que el atributo username contenga caracteres especiales</li>
-<li>Se solicitara que el atributo password contenga al menos 10 caracteres</li>
+<li>No se permitira que el atributo username contenga caracteres especiales mediante condicionales</li>
 <li>Hay una base de datos donde hay un registro de todos los usuarios existentes en la plataforma </li>
 <li>Hay una función almacenada que permite agregar un nuevo usuario al registro de usuarios</li>
 <li>Hay una función almacenada que permite gestionar los atributos de los registros en la tabla de usuarios</li>
@@ -127,21 +130,16 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 <li>La aplicación estara prograamada de modo que, de acuerdo al atributo que indica el tipo de usuario, mostrara el menú de usuario normal</li>
 <li>La aplicación estara prograamada de modo que, de acuerdo al atributo que indica el tipo de usuario, mostrara el menú de administrador</li>
 <li>La aplicación estara prograamada de modo que, de acuerdo al atributo que indica el tipo de usuario, mostrara el menú de entrenador</li>
-<li>icono perfilhow</li>
+<li>Habrá un sistema que permita la subida de archivos de tipo imagen, esto para permitir el cambio de icono/foto de perfil del usuario</li>
 <li>Habra una función almacenada que le permitira al usuario cambiar su nickname (nombre visible para otros usuarios), siempre y cuando el contador de esta acción no sea mayor a 0</li>
 <li>El atributo de contador de veces que el usuario ha cambiado su nickname, se restablece a 0 cada 3 meses desde que se actualizo (desde que se realizo la acción)</li>
 <li>Cuando se agrega una cuenta nueva a la base de datos, se le asigna un ID único</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>  
+<li>Habrá una base de datos donde se almacenen (crear) logros/emblemas</li>
+<li>Habrá una base de datos donde se modifiquen los atributos de los logros/emblemas existentes</li>
+<li>Habrá un sistema en el que, de acuerdo a los atributos del usuario, si se cumple el requisito de algún logro, se le "entregará" inmediatamente</li>
+<li>Habrá una base de datos donde se crearan amistades entre usuarios</li>
+<li>Habrá una base de datos donde se puedan modificar amistades existentes entre usuarios (tendra un atributo que se llame "Estatus", el cual seria de tipo enum, siendo los casos: "Pendiente" o "Activa".</li>
+<li>Habrá una base de datos donde se puedan eliminar amistades existentes entre usuarios</li>
 </ol>
 
 ## Autores
