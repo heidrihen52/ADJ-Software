@@ -101,6 +101,18 @@ Los programas que tenemos previstos para usar son:
 
 ## Autores
 
+
+[@heidrihen52](https://github.com/heidrihen52) 
+
+[@hesuh05](https://github.com/hesuh05)
+
+[@JenniferBautistaBarrios](https://github.com/JenniferBautistaBarrios)
+
+[@Danny88e](https://github.com/Danny88e)
+
+
 ## Licencia de Software
+
+![](https://img.shields.io/github/license/heidrihen52/{ADJ-Software}.svg)
 
 
