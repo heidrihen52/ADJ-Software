@@ -72,7 +72,6 @@ Establecer métricas para evaluar el impacto del software en la salud de los usu
 Este software tiene como objetivo empoderar a los usuarios para que tomen decisiones conscientes sobre su salud. Al proporcionar herramientas prácticas, educación y apoyo, esperamos contribuir a un cambio positivo en los hábitos de vida y, en última instancia, mejorar la calidad de vida de las personas.
 </p>
 
-## Capturas de Pantalla
 
 
 ## Requerimientos Funcionales
