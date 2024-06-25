@@ -6,7 +6,8 @@ En este proyecto crearemos una aplicacion web la cual permita a los usuarios ten
 ## Problematica
 Actualmente mas del 80% de las personas que se diagnostican con diabertes tipo 2, han tenido sobrepeso y obesidad, la diabetes tipo 2 es la segunda causa de mortalidad en el pais ademas de que alrededor de 1 de cada 10 niños menores de 10 años tienen obesidad; 35% de los niños en edad escolar de 5 a 11 años tienen sobrepeso u obesidad; 40% de los jovenes adolescentes de 12 a 19 años tienen sobrepeso y obesidad, el 75% de los adultos vivbimos con obesidad o sobrepeso.
 
-
+## Propuesta de solución
+Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para manetner una rutina/habitos sanos que promuevan una condicion saludable.
 
 
 ## Lista de Tecnologías
