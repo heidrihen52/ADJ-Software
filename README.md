@@ -20,11 +20,52 @@ Los programas que tenemos previstos para usar son:
   Documentación:  ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 
-## Objetivo General
 
+## Objetivo General:
+<p align = jusitify>
+Desarrollar un software de apoyo para la promoción de un estilo de vida saludable en México, enfocado en la gestión efectiva de la ingesta alimentaria y la realización de ejercicio físico adecuado, con el fin de reducir el porcentaje de problemas de salud relacionados con malos hábitos alimenticios y sedentarismo, especialmente la diabetes y la obesidad en adultos, jóvenes y niños. Este enfoque integral tiene como objetivo empoderar a los usuarios con herramientas prácticas y motivacionales para adoptar y mantener comportamientos saludables a largo plazo, contribuyendo así a la reducción de los índices de diabetes, obesidad y otros problemas de salud relacionados en la población mexicana.
+</p>
 
-## Obejetivos especificos
+## Objetivos Especificos: 
+<p align = justify>
+El desarrollo de un software orientado a promover un estilo de vida saludable es una tarea ambiciosa y significativa. Para lograrlo, es fundamental establecer objetivos específicos que guíen el proceso de creación y aseguren que el producto final cumpla con su propósito. A continuación, presento diez objetivos detallados que abordan diferentes aspectos del proyecto:
+</p>
 
+1. **Diseñar una Interfaz Intuitiva y Atractiva:**
+Crear una interfaz de usuario (UI) que sea fácil de usar, visualmente atractiva y accesible para personas de todas las edades y niveles de experiencia.
+    - Alcance: La UI debe ser amigable y motivadora para los usuarios, alentándolos a explorar las funcionalidades del software.
+2. **Registro de Alimentos y Calorías:**
+Implementar una función que permita a los usuarios registrar sus comidas diarias, incluyendo detalles como tipo de alimento, cantidad y calorías.
+    - Alcance: Los usuarios podrán llevar un seguimiento preciso de su ingesta calórica y tomar decisiones informadas sobre su alimentación.
+3. **Planificación de Ejercicios Personalizados:**
+Desarrollar un módulo que genere planes de ejercicios adaptados a las necesidades individuales de cada usuario.
+    - Alcance: Los usuarios recibirán recomendaciones específicas según su nivel de actividad física, objetivos y limitaciones.
+4. **Notificaciones y Recordatorios:**
+Implementar alertas y recordatorios para motivar a los usuarios a mantener sus hábitos saludables.
+    - Alcance: Las notificaciones pueden incluir recordatorios para beber agua, hacer ejercicio o registrar comidas.
+5. **Seguimiento de Progreso y Metas:**
+Desarrollar una función que permita a los usuarios rastrear su progreso a lo largo del tiempo.
+    - Alcance: Los usuarios podrán establecer metas (p. ej., pérdida de peso, aumento de masa muscular) y evaluar su avance.
+6. **Integración con Dispositivos Wearables:**
+Integrar el software con dispositivos como relojes inteligentes o pulseras de actividad física.
+    - Alcance: Los usuarios podrán sincronizar datos de actividad física y monitorear su rendimiento en tiempo real.
+7. **Educación Nutricional y Ejercicio:**
+Proporcionar contenido educativo sobre nutrición y ejercicios.
+    - Alcance: Los usuarios podrán acceder a artículos, consejos y recetas saludables dentro de la aplicación.
+8. **Comunidad y Apoyo Social:**
+Crear un espacio donde los usuarios puedan interactuar, compartir experiencias y brindarse apoyo mutuo.
+    - Alcance: Foros, grupos de chat y desafíos pueden fomentar la comunidad y la motivación.
+9. **Evaluación de Riesgos y Advertencias:**
+Incluir alertas sobre posibles riesgos para la salud, como dietas extremas o ejercicios inadecuados.
+    - Alcance: Los usuarios recibirán advertencias si sus elecciones pueden ser perjudiciales.
+10. **Evaluación de Impacto y Mejora Continua:**
+Establecer métricas para evaluar el impacto del software en la salud de los usuarios.
+    - Alcance: Se realizarán análisis periódicos para identificar áreas de mejora y ajustar el software en consecuencia.
+
+**Impacto Esperado:**
+<p align = justify>
+Este software tiene como objetivo empoderar a los usuarios para que tomen decisiones conscientes sobre su salud. Al proporcionar herramientas prácticas, educación y apoyo, esperamos contribuir a un cambio positivo en los hábitos de vida y, en última instancia, mejorar la calidad de vida de las personas.
+</p>
 
 ## Capturas de Pantalla
 
