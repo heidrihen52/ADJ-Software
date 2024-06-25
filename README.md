@@ -3,6 +3,10 @@ Avances y documentación sobre el avance del proyecto integrador
 ## Proyecto integrador
 En este proyecto crearemos una aplicacion web la cual permita a los usuarios tener rutinad de ejercio personalizadas que se ajustaran en funcion de su complexión física, ademas de ello, al completar cierta cantidad de ejercios, el usuario recibira alguna especie de congratulaciones para que se motive a seguir con los ejercicios.
 
+## Problematica
+Actualmente mas del 80% de las personas que se diagnostican con diabertes tipo 2, han tenido sobrepeso y obesidad, la diabetes tipo 2 es la segunda causa de mortalidad en el pais ademas de que alrededor de 1 de cada 10 niños menores de 10 años tienen obesidad; 35% de los niños en edad escolar de 5 a 11 años tienen sobrepeso u obesidad; 40% de los jovenes adolescentes de 12 a 19 años tienen sobrepeso y obesidad, el 75% de los adultos vivbimos con obesidad o sobrepeso.
+
+
 
 
 ## Lista de Tecnologías
