@@ -73,8 +73,11 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 </p>
 
 ## Identidad grafica
+![](https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0039.jpg)
 
+![](https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240603-WA0036.jpg)
 
+![](https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0031.jpg)
 
 ## Requerimientos Funcionales
 <ol>
