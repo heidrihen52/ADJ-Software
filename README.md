@@ -78,7 +78,7 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 </p>
 
 ## Identidad grafica
-<li> gráfica <li>
+<li> Gráfica <li>
 <img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240701-WA0081.jpg" height="250" width="250" />
   
 <li>Logo de la empresa</li>
