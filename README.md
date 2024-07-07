@@ -2,7 +2,7 @@
 *Avances y documentación sobre el avance del proyecto integrador*
 ## Proyecto integrador
   <p align="justify">
-En este proyecto crearemos una aplicacion web la cual permita a los usuarios tener rutinad de ejercio personalizadas que se ajustaran en funcion de su complexión física, ademas de ello, al completar cierta cantidad de ejercios, el usuario recibira alguna especie de congratulaciones para que se motive a seguir con los ejercicios.
+En este proyecto crearemos una aplicacion web, la cual permita a los usuarios tener una variedad de rutinas de ejercicio, las cuales se recomendaran en base a los datos que ingrese respecto a su condición física (peso, altura, edad). Este proyecto se enfocara en motivar a los usuarios a seguir con una vida saludable mediante diversas funciones. Una de estas siendo el sistema de emblemas/logros.
   </p>
   
 ## Problematica
