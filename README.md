@@ -1,20 +1,20 @@
 # One More Life
-<p align = justify>
-Avances y documentación sobre el avance del proyecto integrador
+*Avances y documentación sobre el avance del proyecto integrador*
 ## Proyecto integrador
+  <p align="justify">
 En este proyecto crearemos una aplicacion web la cual permita a los usuarios tener rutinad de ejercio personalizadas que se ajustaran en funcion de su complexión física, ademas de ello, al completar cierta cantidad de ejercios, el usuario recibira alguna especie de congratulaciones para que se motive a seguir con los ejercicios.
-
+  </p>
+  
 ## Problematica
-<p align = justify>
+<p align="justify">
 Actualmente mas del 80% de las personas que se diagnostican con diabertes tipo 2, han tenido sobrepeso y obesidad, la diabetes tipo 2 es la segunda causa de mortalidad en el pais ademas de que alrededor de 1 de cada 10 niños menores de 10 años tienen obesidad; 35% de los niños en edad escolar de 5 a 11 años tienen sobrepeso u obesidad; 40% de los jovenes adolescentes de 12 a 19 años tienen sobrepeso y obesidad, el 75% de los adultos vivbimos con obesidad o sobrepeso.
 
 ## Propuesta de solución
-<p align = justify>
+<p align="justify">
 Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para manetner una rutina/habitos sanos que promuevan una condicion saludable.
 
 
 ## Lista de Tecnologías
-<p align = justify>
 Los programas que tenemos previstos para usar son: 
 
   Cliente: ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -31,13 +31,13 @@ Los programas que tenemos previstos para usar son:
 
 
 ## Objetivo General:
-<p align = jusitify>
+<p align="justify">
 Desarrollar un software de apoyo para la promoción de un estilo de vida saludable en México, enfocado en la gestión efectiva de la ingesta alimentaria y la realización de ejercicio físico adecuado, con el fin de reducir el porcentaje de problemas de salud relacionados con malos hábitos alimenticios y sedentarismo, especialmente la diabetes y la obesidad en adultos, jóvenes y niños. Este enfoque integral tiene como objetivo empoderar a los usuarios con herramientas prácticas y motivacionales para adoptar y mantener comportamientos saludables a largo plazo, contribuyendo así a la reducción de los índices de diabetes, obesidad y otros problemas de salud relacionados en la población mexicana.
 </p>
 
 
 ## Objetivos Especificos: 
-<p align = justify>
+<p align="justify">
 El desarrollo de un software orientado a promover un estilo de vida saludable es una tarea ambiciosa y significativa. Para lograrlo, es fundamental establecer objetivos específicos que guíen el proceso de creación y aseguren que el producto final cumpla con su propósito. A continuación, presento diez objetivos detallados que abordan diferentes aspectos del proyecto:
 </p>
 
@@ -73,7 +73,7 @@ Establecer métricas para evaluar el impacto del software en la salud de los usu
     - Alcance: Se realizarán análisis periódicos para identificar áreas de mejora y ajustar el software en consecuencia.
 
 **Impacto Esperado:**
-<p align = justify>
+<p align="justify">
 Este software tiene como objetivo empoderar a los usuarios para que tomen decisiones conscientes sobre su salud. Al proporcionar herramientas prácticas, educación y apoyo, esperamos contribuir a un cambio positivo en los hábitos de vida y, en última instancia, mejorar la calidad de vida de las personas.
 </p>
 
