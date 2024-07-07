@@ -2,7 +2,7 @@
 *Avances y documentación sobre el avance del proyecto integrador*
 ## Proyecto integrador
   <p align="justify">
-En este proyecto crearemos una aplicacion web, la cual permita a los usuarios tener una variedad de rutinas de ejercicio, las cuales se recomendaran en base a los datos que ingrese respecto a su condición física (peso, altura, edad). Este proyecto se enfocara en motivar a los usuarios a seguir con una vida saludable mediante diversas funciones. Una de estas siendo el sistema de emblemas/logros.
+En este proyecto crearemos una aplicacion web, la cual permita a los usuarios tener una variedad de rutinas de ejercicio, las cuales se recomendaran en base a los datos que ingrese respecto a su condición física (peso, altura, edad). Este proyecto se enfocara en motivar a los usuarios a seguir con una vida saludable mediante diversas funciones. 
   </p>
   
 ## Problematica
@@ -11,7 +11,7 @@ Actualmente mas del 80% de las personas que se diagnostican con diabertes tipo 2
 
 ## Propuesta de solución
 <p align="justify">
-Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para manetner una rutina/habitos sanos que promuevan una condicion saludable.
+Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para mantener una rutina/habitos sanos que promuevan una condicion saludable. Además de proporcionarle información útil para llevar una vida saludable. Como se menciono anteriormente, también tendra funciones enfocadas únicamente en la motivación del usuario, siendo un ejemplo de estas el sistema de emblemas/logros.
 
 
 ## Lista de Tecnologías
