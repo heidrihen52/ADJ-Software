@@ -6,13 +6,14 @@ En este proyecto crearemos una aplicacion web, la cual permita a los usuarios te
   </p>
   
 ## Problematica
-<p align="justify">
+  <p align="justify">
 Actualmente mas del 80% de las personas diagnosticadas con diabetes tipo 2, han tenido sobrepeso y obesidad. La diabetes tipo 2 es la segunda causa de mortalidad en el pais ademas de que alrededor de 1 de cada 10 niños menores de 10 años tienen obesidad; 35% de los niños en edad escolar de 5 a 11 años tienen sobrepeso u obesidad; 40% de los jovenes adolescentes de 12 a 19 años tienen sobrepeso y obesidad, el 75% de los adultos vivimos con obesidad o sobrepeso.
+  </p>
 
 ## Propuesta de solución
-<p align="justify">
+  <p align="justify">
 Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para mantener una rutina/habitos sanos que promuevan una condicion saludable. Además de proporcionarle información útil para llevar una vida saludable. Como se menciono anteriormente, también tendra funciones enfocadas únicamente en la motivación del usuario, siendo un ejemplo de estas el sistema de emblemas/logros.
-
+  </p>
 
 ## Lista de Tecnologías
 Los programas que tenemos previstos para usar son: 
@@ -78,8 +79,6 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 </p>
 
 ## Identidad grafica
-<li> Gráfica </li>
-<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240701-WA0081.jpg" height="250" width="250" />
   
 <li>Logo de la empresa</li>
 <img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0039.jpg" height="250" width="250" />
@@ -90,6 +89,8 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 <li>Paleta de colores para el proyecto</li>
 <img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0031.jpg" height="250" width="750" />
 
+<li> Gráfica </li>
+<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240701-WA0081.jpg" height="250" width="250" />
 
 ## Requerimientos Funcionales
 <ol>
