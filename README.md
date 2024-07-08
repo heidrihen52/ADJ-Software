@@ -87,7 +87,7 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
   |<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0039.jpg" height="250" width="250" /> | <img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240603-WA0036.jpg" height="250" width="250" /> |
 
 ### - Paleta de colores del proyecto
-<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0031.jpg" height="250" width="750" />
+<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0031.jpg" height="175" width="750" />
 
 ### - Interfaces
 - **Sketch**
