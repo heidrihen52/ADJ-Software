@@ -80,11 +80,9 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 
 ## Identidad grafica
   
-<li>Logo de la empresa</li>
-<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0039.jpg" height="250" width="250" />
-
-<li>Logo del proyecto</li>
-<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240603-WA0036.jpg" height="250" width="250" />
+  | Logo de Empresa | Logo de proyecto |
+  | - | - |
+  |<img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0039.jpg" height="250" width="250" /> | <img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240603-WA0036.jpg" height="250" width="250" /> |
 
 <li>Paleta de colores para el proyecto</li>
 <img src="https://github.com/heidrihen52/ADJ-Software/blob/main/IMG-20240622-WA0031.jpg" height="250" width="750" />
