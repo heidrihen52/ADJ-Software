@@ -19,7 +19,7 @@
 >| - FrontEnd
 
 
-## Equipo de Desarrollo
+## Equipo de Desarrollo.
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
