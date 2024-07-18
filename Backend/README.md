@@ -5,7 +5,7 @@
 
 ## Estructura de Archivos
 
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-One-Life<br>
 >**| - Backend** <br>
 >&nbsp;&nbsp;|- PHP<br>
 >&nbsp;&nbsp;|- DB_Connection<br>
