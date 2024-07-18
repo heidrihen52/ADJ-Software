@@ -18,7 +18,6 @@
 >&nbsp;&nbsp;|- User Manual<br>
 >| - FrontEnd
 
-
 ## Equipo de Desarrollo.
 
 |Integrante|Contacto|Rol|Observaciones|
