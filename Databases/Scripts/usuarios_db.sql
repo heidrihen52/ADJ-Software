@@ -1,7 +1,7 @@
 create table usuarios_db (
 	id_usuario int primary key AUTO_INCREMENT,
 	nombre varchar(25),
-  nickname varchar(50)
+	nickname varchar(50)
 	email varchar(50),
 	contraseña varchar(25), 
 	fecha_nac date,
