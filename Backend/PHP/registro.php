@@ -9,16 +9,16 @@ if (isset($_POST['registrarb'])) { /*Si es que se presiono el boton registrarb..
 		$resultado = mysqli_query($conn,$consulta);
 	    if ($resultado) {
 	    	?> 
-	    	<h3 class="bad">¡Registro completado!</h3>
+	    	<h3 class="mensaje">¡Registro completado!</h3>
            <?php
 	        } else {
 	    	?> 
-	    	<h3 class="bad">Error</h3>
+	    	<h3 class="mensaje">Error</h3>
            <?php
 	    }
     }   else {
 	    	?> 
-	    	<h3 class="bad">¡Te faltan campos!</h3>
+	    	<h3 class="mensaje">¡Te faltan campos!</h3>
            <?php
     }
 }
