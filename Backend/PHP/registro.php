@@ -9,7 +9,7 @@ if (isset($_POST['registrarb'])) { /*Si es que se presiono el boton registrarb..
 		$resultado = mysqli_query($conn,$consulta);
 	    if ($resultado) {
 	    	?> 
-	    	<h3 class="mensaje">¡Registro completado!</h3>
+	    	<h3 class="mensaje">Registro completado!</h3>
            <?php
 	        } else {
 	    	?> 
@@ -18,7 +18,7 @@ if (isset($_POST['registrarb'])) { /*Si es que se presiono el boton registrarb..
 	    }
     }   else {
 	    	?> 
-	    	<h3 class="mensaje">¡Te faltan campos!</h3>
+	    	<h3 class="mensaje">Faltan campos por completar!</h3>
            <?php
     }
 }
