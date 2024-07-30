@@ -28,6 +28,7 @@
   /* Campos de entrada */
   .register-container input[type="text"],
   .register-container input[type="email"],
+  .register-container input[type="tel"],
   .register-container input[type="password"] {
     width: calc(100% - 20px);
     padding: 10px;
