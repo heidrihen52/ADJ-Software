@@ -10,5 +10,6 @@ create table usuarios_db (
 	n_telefono int,
 	altura int,
 	peso decimal(10,2),
+	emblemas int,
 	rol enum(usuario,administrador)
 );
