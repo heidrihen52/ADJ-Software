@@ -4,5 +4,5 @@ create table rutinas (
 	nombre_rutina varchar(100),
 	categoria enum(ganancia_muscular,perdida_grasa,acondicionamiento),
 	dificultad enum(principiante,intermedio,avanzado),
-	id_plan int unique null
+	complemento_nutricional int null foreign key references plan_alimenticio(id_plan)
 );
