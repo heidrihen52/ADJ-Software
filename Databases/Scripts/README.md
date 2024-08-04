@@ -24,6 +24,6 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Luis Daniel Escamilla Suarez|[@Danny88e](https://github.com/Danny88e)|Lider de Base de Datos|✅ Revisado y aprobado.|
-|Jennifer Bautista Barrios|[@JenniferBautistaBarrios](https://github.com/JenniferBautistaBarrios)|Documentación|😐 No ha revisado.|
+|Jennifer Bautista Barrios|[@JenniferBautistaBarrios](https://github.com/JenniferBautistaBarrios)|Documentación|✅ Revisado y aprobado.|
 |Adrián Pérez Jiménez|[@heidrihen52](https://github.com/heidrihen52)|Desarrollador Frontend|😐 No ha revisado.|
 |Jesús Domínguez Ramírez|[@hesuh05](https://github.com/hesuh05)|Desarrollador Backend|😐 No ha revisado.|
