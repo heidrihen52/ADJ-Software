@@ -21,4 +21,4 @@ En esta sección se encontraran archivos referentes a PHP. O sea, todo aquello c
 |Jesús Domínguez Ramírez|[@hesuh05](https://github.com/MTI-MarcoRH)|Líder de Desarrollo Backend|✅|
 |Adrián Pérez Jiménez|[@heidrihen52](https://github.com/GitUser)|Desarrollador Frontend|Corrige algunos errores de ortografia, y te sugiero cambies el mensja que dice "te faltan campos" 🙂|
 |Luis Daniel Escamilla Suarez|[@Danny88e](https://github.com/GitUser)|Administrador de Base de Datos|😐 No ha revisado.|
-|Jennifer Bautista Barrios|[@JenniferBautistaBarrios](https://github.com/GitUser)|Lider de Documentación|😐 No ha revisado.|
+|Jennifer Bautista Barrios|[@JenniferBautistaBarrios](https://github.com/GitUser)|Lider de Documentación|😐 Se mencionan los detalles ortograficos y se pide el cambio de algunos resultados de las acciones|
