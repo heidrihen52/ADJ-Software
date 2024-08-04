@@ -22,10 +22,17 @@ header {
 }
 
 #oml{
-    color: #007bff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #00181d;
     display: inline-block;
     vertical-align:text-top;
     margin: 0;
+    
+}
+.Asidess {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
     
 }
 
@@ -34,7 +41,26 @@ header {
     margin-right: 10px;
 }
 
+.toprow, .bottomrow {
+    display: flex;
+    justify-content: space-between;
+}
 
+aside {
+    width: 100%; /* Ajusta el ancho según necesites */
+    background-color: #bcc8ea;
+    padding: 20px;
+    color: #00181d;
+    justify-content: space-between;
+}
+
+#left {
+    border-bottom-right-radius: 50px;
+}
+
+#right {
+    border-top-left-radius: 50px;
+}
 
 .button-container {
     margin-right: 20px;
@@ -71,6 +97,10 @@ main {
     font-size: 1.2em;
     margin-bottom: 20px;
     color: #556BE1;
+}
+
+.intro-text  {
+    justify-content: space-between;
 }
 
 .intro-images {
