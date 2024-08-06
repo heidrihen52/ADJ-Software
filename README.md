@@ -14,6 +14,9 @@ Actualmente mas del 80% de las personas diagnosticadas con diabetes tipo 2, han 
   <p align="justify">
 Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para mantener una rutina/habitos sanos que promuevan una condicion saludable. Además de proporcionarle información útil para llevar una vida saludable. Como se menciono anteriormente, también tendra funciones enfocadas únicamente en la motivación del usuario, siendo un ejemplo de estas el sistema de emblemas/logros.
   </p>
+  
+## Organigrama del Equipo
+<img src="https://github.com/heidrihen52/ADJ-Software/blob/00c98fcc8df248d37894c24bc216347f0fc8a51c/images/organigramaADJ.png" />
 
 ## Lista de Tecnologías
 Los programas que tenemos previstos para usar son: 
@@ -29,7 +32,8 @@ Los programas que tenemos previstos para usar son:
   
   Documentación:  ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
-
+## Diagrama del progreso
+<img src="https://github.com/heidrihen52/ADJ-Software/blob/00c98fcc8df248d37894c24bc216347f0fc8a51c/images/Gr%C3%A1fico%20Gantt%20Proyecto%20ADJ.png" />
 
 ## Objetivo General:
 <p align="justify">
