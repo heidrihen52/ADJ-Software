@@ -167,14 +167,12 @@ Este software tiene como objetivo empoderar a los usuarios para que tomen decisi
 
 ## Autores
 
-
-**Adrian Perez Jimenez** / [@heidrihen52](https://github.com/heidrihen52) 
-
-**Jesús Domínguez Ramírez** / [@hesuh05](https://github.com/hesuh05)
-
-**Jennifer Bautista Barrios** / [@JenniferBautistaBarrios](https://github.com/JenniferBautistaBarrios)
-
-**Luis Daniel Escamilla Suarez** / [@Danny88e](https://github.com/Danny88e)
+|Colaborador|Rol|
+|-|-|
+|**Adrian Perez Jimenez** / [@heidrihen52](https://github.com/heidrihen52) |Desarrollador Frontend |
+|**Jesús Domínguez Ramírez** / [@hesuh05](https://github.com/hesuh05)|Desarrollador Backend|
+|**Luis Daniel Escamilla Suarez** / [@Danny88e](https://github.com/Danny88e)|Administrador de Base de datos|
+|**Jennifer Bautista Barrios** / [@JenniferBautistaBarrios](https://github.com/JenniferBautistaBarrios)|Documentadora|
 
 
 ## Licencia de Software
