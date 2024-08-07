@@ -12,7 +12,7 @@ Actualmente mas del 80% de las personas diagnosticadas con diabetes tipo 2, han 
 
 ## Propuesta de solución
   <p align="justify">
-Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un apoyo para el usuario para mantener una rutina/habitos sanos que promuevan una condicion saludable. Además de proporcionarle información útil para llevar una vida saludable. Como se menciono anteriormente, también tendra funciones enfocadas únicamente en la motivación del usuario, siendo un ejemplo de estas el sistema de emblemas/logros.
+Nuestra propuesta es desarrollar una aplicacion orientada a funcionar como un facilitador para el usuario, para proporcionarle una variedad de rutinas y/o planes, para permitirle mantener hábitos sanos que promuevan una cond0icion saludable. Además, poder proporcionarle información útil para llevar una vida saludable. Todo esto mediante un interfaz simple e intuitiva.
   </p>
   
 ## Organigrama del Equipo
