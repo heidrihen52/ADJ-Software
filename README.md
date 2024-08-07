@@ -2,7 +2,7 @@
 *Avances y documentación sobre el avance del proyecto integrador*
 ## Proyecto integrador
   <p align="justify">
-En este proyecto crearemos una aplicacion web, la cual permita a los usuarios tener una variedad de rutinas de ejercicio, las cuales se recomendaran en base a los datos que ingrese respecto a su condición física (peso, altura, edad). Este proyecto se enfocara en motivar a los usuarios a seguir con una vida saludable mediante diversas funciones. 
+Este proyecto se enfocara en la recolección virtual de rutinas de ejercicio y planes alimenticio, mismos que serán clasificados y organizados dentro de la aplicación web de acuerdo a información del usuario y lo que busca con las rutinas/planes. Este enfoque tiene como objetivo el facilitar a la disposición del usuario una variedad de rutinas de ejercicio y planes alimenticios verídicos.
   </p>
   
 ## Problematica
