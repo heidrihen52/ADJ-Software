@@ -2,7 +2,7 @@
 *Avances y documentación sobre el avance del proyecto integrador*
 ## Proyecto integrador
   <p align="justify">
-Este proyecto se enfocara en la recolección virtual de rutinas de ejercicio y planes alimenticio, mismos que serán clasificados y organizados dentro de la aplicación web de acuerdo a información del usuario y lo que busca con las rutinas/planes. Este enfoque tiene como objetivo el facilitar a la disposición del usuario una variedad de rutinas de ejercicio y planes alimenticios verídicos.
+Este proyecto se enfocara en la recolección virtual de rutinas de ejercicio y planes alimenticios, mismos que serán clasificados y organizados dentro de la aplicación web de acuerdo a la información recolectada del usuario y lo que busca con las rutinas/planes. Este enfoque tiene como objetivo el facilitar a la disposición del usuario todo este contenido, además de proporcionarle información auténtica.
   </p>
   
 ## Problematica
